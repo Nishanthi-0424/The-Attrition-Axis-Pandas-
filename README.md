@@ -1,2 +1,1 @@
-# The-Attrition-Axis-Pandas-
-A data-driven HR analytics project utilizing Python Pandas and Excel to analyze workforce turnover trends, identify flight risks, and decode employee retention patterns.
+<img width="1240" height="2268" alt="image" src="https://github.com/user-attachments/assets/9ded524c-e54d-4e94-88c3-0fbefd2d1495" />
